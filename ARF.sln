@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARF", "ARF.csproj", "{0608E6F7-A650-272A-B079-0D3535C05DEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARF.Editor", "ARF.Editor.csproj", "{1E462991-E092-2BFC-570C-10D970C8852B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0608E6F7-A650-272A-B079-0D3535C05DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0608E6F7-A650-272A-B079-0D3535C05DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0608E6F7-A650-272A-B079-0D3535C05DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0608E6F7-A650-272A-B079-0D3535C05DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E462991-E092-2BFC-570C-10D970C8852B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E462991-E092-2BFC-570C-10D970C8852B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E462991-E092-2BFC-570C-10D970C8852B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E462991-E092-2BFC-570C-10D970C8852B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

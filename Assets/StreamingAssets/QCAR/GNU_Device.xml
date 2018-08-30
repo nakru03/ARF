@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="1000won" size="100.000000 49.805447" />
+    <ImageTarget name="ncs" size="191.000000 250.189011" />
+    <ImageTarget name="fp" size="257.000000 351.302429" />
+  </Tracking>
+</QCARConfig>
